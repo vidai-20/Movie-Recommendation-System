@@ -4,7 +4,6 @@
 
 🧾 Giới thiệu
 
-<img width="190" height="265" alt="image" src="https://github.com/user-attachments/assets/9c68db6c-40f3-4264-995d-b17df386ba18" />
 Đây là một dự án nhỏ nhằm giới thiệu hình ảnh nhân vật theo phong cách truyền thông trực quan. Nội dung tập trung vào việc thể hiện cá tính, phong cách và sức hút riêng thông qua hình ảnh.
 
 Hình ảnh đại diện mang đến cảm giác:
