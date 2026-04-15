@@ -44,3 +44,5 @@ project/
 Hình ảnh nên có độ phân giải cao
 Tránh chỉnh sửa quá đà để giữ sự tự nhiên
 Tập trung vào ánh sáng và góc chụp
+
+<img width="190" height="265" alt="image" src="https://github.com/user-attachments/assets/9c68db6c-40f3-4264-995d-b17df386ba18" />
